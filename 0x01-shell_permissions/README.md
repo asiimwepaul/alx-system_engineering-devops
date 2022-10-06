@@ -17,3 +17,4 @@ Create a script that creates a directory
 Write a script that changes the group owner
 Write the script that changes the owner to vincent and group to staff
 Write a script that changes the owner and the group owner
+Write a script that changes the owner of the file hello to betty
