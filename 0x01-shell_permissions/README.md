@@ -12,3 +12,4 @@ Write a script that adds execution permission to the owner, the group owner and 
 
 Write a script that sets the permission to the file
 Write a script that sets the mode of the file
+Create a script that adds execute permission to all subdirectories
