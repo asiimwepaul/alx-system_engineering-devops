@@ -20,3 +20,4 @@ Remove all letters
 Reverse input
 Display all users and their home directories sorted
 Find all empty files and directories
+List all files with a .gif
