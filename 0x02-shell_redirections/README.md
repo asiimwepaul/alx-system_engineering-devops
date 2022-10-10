@@ -8,3 +8,4 @@ Write a script that writes into a file
 Duplicate last line
 Delete all the regular js files
 Count the number of directories
+Display the 10 newest files
