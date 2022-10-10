@@ -10,3 +10,4 @@ Delete all the regular js files
 Count the number of directories
 Display the 10 newest files
 Take a list of wortds as input
+Display lines containing the pattern “root” from the file
