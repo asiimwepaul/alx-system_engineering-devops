@@ -12,3 +12,4 @@ Display the 10 newest files
 Take a list of wortds as input
 Display lines containing the pattern “root” from the file
 Display the number of lines that contain the pattern “bin” in the file
+Display lines containing the pattern “root” and 3 lines after them in the file
