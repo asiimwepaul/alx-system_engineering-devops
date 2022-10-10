@@ -18,3 +18,4 @@ Display all lines of the file starting with a letter
 Replace all characters
 Remove all letters
 Reverse input
+Display all users and their home directories sorted
