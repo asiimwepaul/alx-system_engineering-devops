@@ -15,3 +15,4 @@ Display the number of lines that contain the pattern “bin” in the file
 Display lines containing the pattern “root” and 3 lines after them in the file
 Display all the lines in the file that do not contain bin
 Display all lines of the file starting with a letter
+Replace all characters
