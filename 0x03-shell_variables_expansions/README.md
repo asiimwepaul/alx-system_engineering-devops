@@ -13,3 +13,4 @@ Print all possible combinations of two letters
 Display the result of BREATH
 Change a number from base 10 to base 16
 Encode and decode text using rot13
+Print every other line from the input
