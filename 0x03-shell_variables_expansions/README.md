@@ -8,3 +8,4 @@ Create a new local variable
 Create a new global variable
 Print the result of the addition
 Print the result of Power
+Convert a number from base 2 to base 10
